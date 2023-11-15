@@ -1,5 +1,5 @@
-The test is intended to be checking full-stack developer qualifications with an emphasis on improving software component design, quality, and performance. Please answer the following questions:
+The test is intended to check full-stack developer qualifications with an emphasis on improving software component design, quality, and performance. Please answer the following questions:
  
-1. [10 points] From the code provided, please explain what the code is doing, any problem with the code? How to fix that problem?
+1. [10 points] From the project provided on Git, what is the major problem on the project? Please explain step by step to find the root cause then how to fix?
 
-2. [5 points] For Node.js API development, how can you improve performance and save development time? Please list them, then explain each item how and why.
+2. [10 points] Give 5 causes that introduce performance issue to Node.js and explain how to solve each of them.
