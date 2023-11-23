@@ -1,7 +1,7 @@
 The test is intended to check full-stack developer qualifications, with an emphasis on improving software component design, quality, and performance. Please answer the following questions:
  
 1. [10 points] From the image below,
-   [Screen Shot](screen.shot.jpg)
+   <img src="screen.shot.jpg" alt="Alt text" title="Optional title">
    please listen carefully for the explanation and answer the following questions:
    
    -- how 
